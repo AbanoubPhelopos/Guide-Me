@@ -42,10 +42,10 @@
 - **Algorithms**: BFS and DFS for pathfinding
 
 ### Project team contributors
-Abanoub Saweris.
-Yousef Osama.
-Mario Maged.
-Kenzy Adel.
-Christine Medhat.
-Mazen Mahmoud.
-Micheal Nabil.
+- Abanoub Saweris.
+- Yousef Osama.
+- Mario Maged.
+- Kenzy Adel.
+- Christine Medhat.
+- Mazen Mahmoud.
+- Micheal Nabil.
